@@ -1,0 +1,7 @@
+.courses{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 10px;
+    margin-left: 20px;
+    
+}

@@ -1,0 +1,23 @@
+.courselist {
+    height: 400px;
+    width: 400px;
+   
+    border: 1px solid salmon;
+  border-radius: 10px;  
+  margin-bottom: 50px; 
+  margin-left: 130px;
+ 
+ }
+ .courselist img{
+     width: 100%;
+     padding: 15px;
+     
+ }
+ .courselist button{
+     background-color: rgb(90, 205, 128);
+     color: black;
+     font-size: 17px;
+     padding:3px;
+     border: 1px solid wheat;
+     border-radius:7px;
+ }

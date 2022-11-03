@@ -1,0 +1,30 @@
+nav {
+    background-color: lime;
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+
+}
+nav a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 20px;
+    padding: 10px;
+
+
+}
+.nav a:hover{
+    background-color: brown;
+}
+.logo{
+   margin-right: 1000px;
+   margin-top:25px;
+   display: flex;
+   justify-content: start;
+
+   
+}
+.img{
+    margin-top: 14px;
+}

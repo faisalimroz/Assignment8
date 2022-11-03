@@ -1,0 +1,16 @@
+
+.blog{
+    height: 300px;
+    width: 600px;
+   
+    border: 3px solid rgb(149, 115, 220);
+     border-radius: 10px;
+     margin: 10px;
+     padding: 10px;
+
+     
+
+}
+.blog-container{
+    margin-left: 68px;
+}
